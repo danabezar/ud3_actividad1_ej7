@@ -1,0 +1,1 @@
+Afecta a los elementos enlace "a" que contengan como hijo directo un elemento imagen "img"
